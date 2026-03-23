@@ -20,16 +20,17 @@ The goal of the homelab is to create multiple sandbox enviroments that models en
 
 ## Core Technologies
 * **Directory Services:** Active Directory Domain Services (AD DS)
-* **Networking:** Mesh VPN (Tailscale), DHCP, and Static IP configuration
-* **Virtualization:** Hyper-V and VMware Workstation/Fusion Pro
-* **Scripting:** PowerShell and Bash 
+* **Networking:** Tailscale (Mesh VPN), DHCP, Static IP configuration
+* **Virtualization:** Hyper-V, VMware Workstation/Fusion Pro
+* **Scripting:** PowerShell, Bash, Python
+* **IDE/Code Editor:** VS Code, PyCharm
 * **Administration:** Remote Server Administration Tools (RSAT)
 
 ## Projects
 | Focus Area | Live Repository | Key Impact |
 |:---|:---|:---|
 | Hybrid Cloud Management | <a href="https://github.com/b-amaral5/Active-Directory-Lab">Active Directory Lab</a>|  Deployed a multi-site environment simulating real-world remote workforce management  |
-
+| User Automation | <a href="https://github.com/b-amaral5/User-Automation">Active Directory Lab</a>| Developed a PowerShell automation suite to sanitize CSV data and bulk upload over 60 enterprise Active Directory accounts  |
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
